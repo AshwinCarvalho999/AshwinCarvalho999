@@ -1,4 +1,4 @@
-![logo](https://images.app.goo.gl/5Ccm38PKj1isgJSe7)
+![logo](https://github.com/AshwinCarvalho999/Ashwin-Carvalho/blob/main/wallpaperflare.com_wallpaper.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashwin Carvalho</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
