@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ms84cCf0s47_xiqx8yMd38iLa8vHFR4L/view?usp=sharing](https://drive.google.com/file/d/1Ms84cCf0s47_xiqx8yMd38iLa8vHFR4L/view?usp=sharing)
 
-- 🔍 I’m currently Looking for new Job opportunities.
+- 🔍 I’m currently Looking for my next job opportunity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
