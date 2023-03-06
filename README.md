@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwincarvalho999&label=Profile%20views&color=0e75b6&style=flat" alt="ashwincarvalho999" /> </p>
 
-- 🔭 I’m currently working on **React and Ruby on Rails etc.**
+- 🔭 I’m currently working on **React and Tailwind CSS etc.**
 
 - 🌱 I’m currently learning **React, Ruby on Rails, JavaScript and MVC**
 
