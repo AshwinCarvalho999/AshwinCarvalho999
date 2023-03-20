@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React, Ruby on Rails, JavaScript and MVC**
 
-- 📫 How to reach me **ashwincarvalho27@gmail.com**
+- 📫 How to reach me: [Twitter](https://twitter.com/AshwinCar99) , [Linkedin](https://www.linkedin.com/in/ashwin-success/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ms84cCf0s47_xiqx8yMd38iLa8vHFR4L/view?usp=sharing](https://drive.google.com/file/d/1Ms84cCf0s47_xiqx8yMd38iLa8vHFR4L/view?usp=sharing)
+- 😃 Pronouns: He/Him
 
 - 🔍 I’m currently Looking for my next job opportunity!
 
