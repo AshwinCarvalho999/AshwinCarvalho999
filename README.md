@@ -1,5 +1,3 @@
-![logo](https://i.pinimg.com/originals/59/35/5f/59355f751c1e3698cc6360b1a7390094.jpg) 
-
 <h1 align="center">Hi 👋, I'm Ashwin Carvalho</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
